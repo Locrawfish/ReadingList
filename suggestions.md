@@ -1,5 +1,5 @@
 # Book Club Reading List Suggestions
-## Updated May 28, 2016
+## Updated May 29, 2016
 
 [Ryan's](https://github.com/Gusbenz) Summer Reads:
 
@@ -13,4 +13,4 @@
 
 I suggest following [this](http://www.nytimes.com/2016/05/27/books/12-new-books-were-reading-this-summer-and-6-not-so-new.html?mabReward=R4&action=click&pgtype=Homepage&region=CColumn&module=Recommendation&src=rechp&WT.nav=RecEngine) format if you're going to blog post it or something.
 
-Anyway, cool idea. Would make a fun site if updated all summer. Always fun to see what people claim they're reading! :) 
+Anyway, cool idea. Would make a fun site if updated all summer. Always fun to see what people claim they're reading! :)
