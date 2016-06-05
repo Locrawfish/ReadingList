@@ -1,4 +1,4 @@
-# Book Club Reading List 
+# Developer Reading List 
 ## Updated May 28, 2016
 
 * [The Pragmatic Programmer](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X?ie=UTF8&keywords=the%20pragmatic%20programmer&qid=1464445882&ref_=sr_1_1&sr=8-1) / Hunt & Thomas
